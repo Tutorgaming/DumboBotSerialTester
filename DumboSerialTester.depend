@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1451906556 source:/home/c3mx/workspace/DumboSerialTester/main.cpp
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<string>
+	<sys/types.h>
+	<iostream>
+	<termios.h>
+	<unistd.h>
+	"serial/serial.h"
+
+1375081864 /home/c3mx/workspace/DumboSerialTester/cereal_port/CerealPort.h
+	<stdexcept>
+	<termios.h>
+	<string>
+	<vector>
+	<stdint.h>
+	<boost/function.hpp>
+	<boost/thread/thread.hpp>
+
+1450606581 /tmp/usr/local/include/serial/serial.h
+	<limits>
+	<vector>
+	<string>
+	<cstring>
+	<sstream>
+	<exception>
+	<stdexcept>
+	<serial/v8stdint.h>
+
+1450606581 /tmp/usr/local/include/serial/v8stdint.h
+	<stddef.h>
+	<stdio.h>
+	<stdint.h>
+
+1451874973 /home/c3mx/workspace/DumboSerialTester/serial/serial.h
+	<limits>
+	<vector>
+	<string>
+	<cstring>
+	<sstream>
+	<exception>
+	<stdexcept>
+	"v8stdint.h"
+
+1450606581 /home/c3mx/workspace/DumboSerialTester/serial/v8stdint.h
+	<stddef.h>
+	<stdio.h>
+	<stdint.h>
+
